@@ -3,7 +3,8 @@ import demographic_data_analyzer
 from unittest import main
 
 # Test your function by calling it here
-demographic_data_analyzer.calculate_demographic_data()
+# a = demographic_data_analyzer.calculate_demographic_data()
+# print(a['average_age_men'])
 
 # Run unit tests automatically
 main(module='test_module', exit=False)
